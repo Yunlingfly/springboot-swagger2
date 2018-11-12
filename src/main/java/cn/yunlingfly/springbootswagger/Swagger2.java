@@ -35,7 +35,7 @@ public class Swagger2 extends WebMvcConfigurationSupport {
                 //页面标题
                 .title("Spring Boot 测试使用 Swagger2 构建RESTful API")
                 //创建人
-                .contact(new Contact("MarryFeng", "http://www.baidu.com", "508821881@qq.com"))
+                .contact(new Contact("Yunlingfly", "https://www.yunlingfly.cn", "508821881@qq.com"))
                 //版本号
                 .version("1.0")
                 //描述
